@@ -5,6 +5,7 @@ __pycache__/
 *.pyc
 
 # 排除不需要推送的目录
+.openclaw/
 openclaw/
 bak/
 copy_serp_copy/
