@@ -1,0 +1,568 @@
+{
+    "ElevenMusic": {
+        "google_top_domains": [
+            "suno.com",
+            "musicmaker.im",
+            "elements.envato.com",
+            "elevenlabs.io",
+            "enlivenmusic.ai",
+            "techcrunch.com",
+            "elevenmusicai.io"
+        ],
+        "Serper": {
+            "overlap": 2,
+            "overlap_domains": [
+                "elevenlabs.io",
+                "enlivenmusic.ai"
+            ],
+            "top3_hit": "0/3",
+            "engine_top5": [
+                "elevenlabs.io",
+                "enlivenmusic.ai",
+                "youtube.com",
+                "mwm.ai",
+                "elevenmusic.cc"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 3,
+            "overlap_domains": [
+                "elevenlabs.io",
+                "enlivenmusic.ai",
+                "techcrunch.com"
+            ],
+            "top3_hit": "0/3",
+            "engine_top5": [
+                "elevenlabs.io",
+                "enlivenmusic.ai",
+                "techcrunch.com",
+                "reddit.com",
+                "dataconomy.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 2,
+            "overlap_domains": [
+                "elevenlabs.io",
+                "enlivenmusic.ai"
+            ],
+            "top3_hit": "0/3",
+            "engine_top5": [
+                "youtube.com",
+                "mwm.ai",
+                "the-decoder.com",
+                "elevenmusic.cc",
+                "enlivenmusic.ai"
+            ],
+            "total_results": 8
+        }
+    },
+    "Ideogram Layerize": {
+        "google_top_domains": [
+            "toolkit.artlist.io",
+            "ideogram.ai",
+            "chatgpt.com",
+            "fal.ai",
+            "replicate.com",
+            "wavespeed.ai",
+            "artlist.io"
+        ],
+        "Serper": {
+            "overlap": 4,
+            "overlap_domains": [
+                "fal.ai",
+                "ideogram.ai",
+                "replicate.com",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "fal.ai",
+                "youtube.com",
+                "ideogram.ai",
+                "replicate.com",
+                "wavespeed.ai"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 2,
+            "overlap_domains": [
+                "fal.ai",
+                "ideogram.ai"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "fal.ai",
+                "docs.ideogram.ai",
+                "ideogram.ai",
+                "eesel.ai",
+                "mindstudio.ai"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 5,
+            "overlap_domains": [
+                "artlist.io",
+                "fal.ai",
+                "ideogram.ai",
+                "replicate.com",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "replicate.com",
+                "youtube.com",
+                "x.com",
+                "wavespeed.ai",
+                "linkedin.com"
+            ],
+            "total_results": 10
+        }
+    },
+    "PixVerse C1": {
+        "google_top_domains": [
+            "app.pixverse.ai",
+            "docs.platform.pixverse.ai",
+            "pixverse.ai"
+        ],
+        "Serper": {
+            "overlap": 3,
+            "overlap_domains": [
+                "app.pixverse.ai",
+                "docs.platform.pixverse.ai",
+                "pixverse.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "docs.platform.pixverse.ai",
+                "youtube.com",
+                "pixverse.ai",
+                "x.com",
+                "app.pixverse.ai"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 3,
+            "overlap_domains": [
+                "app.pixverse.ai",
+                "docs.platform.pixverse.ai",
+                "pixverse.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "blockchain.news",
+                "docs.platform.pixverse.ai",
+                "app.pixverse.ai",
+                "pixverse.ai",
+                "play.google.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 3,
+            "overlap_domains": [
+                "app.pixverse.ai",
+                "docs.platform.pixverse.ai",
+                "pixverse.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "instagram.com",
+                "youtube.com",
+                "docs.platform.pixverse.ai",
+                "play.google.com",
+                "app.pixverse.ai"
+            ],
+            "total_results": 10
+        }
+    },
+    "Mureka V9": {
+        "google_top_domains": [
+            "mureka.ai",
+            "apps.apple.com",
+            "play.google.com",
+            "whatlaunched.today"
+        ],
+        "Serper": {
+            "overlap": 2,
+            "overlap_domains": [
+                "mureka.ai",
+                "play.google.com"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "mureka.ai",
+                "reddit.com",
+                "tiktok.com",
+                "youtube.com",
+                "x.com"
+            ],
+            "total_results": 9
+        },
+        "Brave": {
+            "overlap": 2,
+            "overlap_domains": [
+                "mureka.ai",
+                "play.google.com"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "murekav9.com",
+                "mureka-v9.com",
+                "mureka.ai",
+                "aistage.net",
+                "promoteproject.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 2,
+            "overlap_domains": [
+                "mureka.ai",
+                "play.google.com"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "murekav9.com",
+                "promptzone.com",
+                "tiktok.com",
+                "reddit.com",
+                "linkedin.com"
+            ],
+            "total_results": 9
+        }
+    },
+    "DreamID-Omni": {
+        "google_top_domains": [
+            "github.com",
+            "arxiv.org",
+            "huggingface.co",
+            "dreamidomni.net",
+            "researchgate.net",
+            "guoxu1233.github.io"
+        ],
+        "Serper": {
+            "overlap": 4,
+            "overlap_domains": [
+                "arxiv.org",
+                "dreamidomni.net",
+                "github.com",
+                "guoxu1233.github.io"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "github.com",
+                "arxiv.org",
+                "dreamidomni.net",
+                "youtube.com",
+                "theresanaiforthat.com"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 5,
+            "overlap_domains": [
+                "arxiv.org",
+                "dreamidomni.net",
+                "github.com",
+                "guoxu1233.github.io",
+                "huggingface.co"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "github.com",
+                "dreamidomni.net",
+                "arxiv.org",
+                "guoxu1233.github.io",
+                "huggingface.co"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 4,
+            "overlap_domains": [
+                "arxiv.org",
+                "dreamidomni.net",
+                "github.com",
+                "guoxu1233.github.io"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "theresanaiforthat.com",
+                "youtube.com",
+                "dreamidomni.net",
+                "poweredbyai.app",
+                "arxiv.org"
+            ],
+            "total_results": 10
+        }
+    },
+    "FireRed Image Edit": {
+        "google_top_domains": [
+            "github.com",
+            "huggingface.co",
+            "arxiv.org",
+            "rundown.ai",
+            "fal.ai",
+            "fireredimage.com",
+            "comfy.org"
+        ],
+        "Serper": {
+            "overlap": 6,
+            "overlap_domains": [
+                "arxiv.org",
+                "fal.ai",
+                "fireredimage.com",
+                "github.com",
+                "huggingface.co",
+                "rundown.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "github.com",
+                "fireredimage.com",
+                "arxiv.org",
+                "huggingface.co",
+                "rundown.ai"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 6,
+            "overlap_domains": [
+                "arxiv.org",
+                "fal.ai",
+                "fireredimage.com",
+                "github.com",
+                "huggingface.co",
+                "rundown.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "github.com",
+                "huggingface.co",
+                "fireredimage.com",
+                "arxiv.org",
+                "reddit.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 7,
+            "overlap_domains": [
+                "arxiv.org",
+                "comfy.org",
+                "fal.ai",
+                "fireredimage.com",
+                "github.com",
+                "huggingface.co",
+                "rundown.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "fal.ai",
+                "replicate.com",
+                "comfy.org",
+                "rundown.ai",
+                "github.com"
+            ],
+            "total_results": 10
+        }
+    },
+    "SkyReels V4": {
+        "google_top_domains": [
+            "skyreels.ai",
+            "arxiv.org",
+            "huggingface.co",
+            "skyreels.org",
+            "wavespeed.ai"
+        ],
+        "Serper": {
+            "overlap": 5,
+            "overlap_domains": [
+                "arxiv.org",
+                "huggingface.co",
+                "skyreels.ai",
+                "skyreels.org",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "skyreels.ai",
+                "arxiv.org",
+                "huggingface.co",
+                "wavespeed.ai",
+                "reddit.com"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 5,
+            "overlap_domains": [
+                "arxiv.org",
+                "huggingface.co",
+                "skyreels.ai",
+                "skyreels.org",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "skyreels.ai",
+                "arxiv.org",
+                "huggingface.co",
+                "wavespeed.ai",
+                "reddit.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 5,
+            "overlap_domains": [
+                "arxiv.org",
+                "huggingface.co",
+                "skyreels.ai",
+                "skyreels.org",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "huggingface.co",
+                "wavespeed.ai",
+                "atlascloud.ai",
+                "arxiv.org",
+                "reddit.com"
+            ],
+            "total_results": 10
+        }
+    },
+    "wan 2.7": {
+        "google_top_domains": [
+            "together.ai",
+            "create.wan.video",
+            "wan2-7.org",
+            "wavespeed.ai",
+            "atlascloud.ai",
+            "play.google.com",
+            "picsart.com",
+            "replicate.com"
+        ],
+        "Serper": {
+            "overlap": 4,
+            "overlap_domains": [
+                "atlascloud.ai",
+                "picsart.com",
+                "together.ai",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "atlascloud.ai",
+                "together.ai",
+                "wan26.info",
+                "wan.video",
+                "picsart.com"
+            ],
+            "total_results": 10
+        },
+        "Brave": {
+            "overlap": 4,
+            "overlap_domains": [
+                "play.google.com",
+                "together.ai",
+                "wan2-7.org",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "2/3",
+            "engine_top5": [
+                "reddit.com",
+                "blog.comfy.org",
+                "together.ai",
+                "wan2-7.org",
+                "wan26.info"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 4,
+            "overlap_domains": [
+                "atlascloud.ai",
+                "replicate.com",
+                "together.ai",
+                "wavespeed.ai"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "together.ai",
+                "wavespeed.ai",
+                "dzine.ai",
+                "atlascloud.ai",
+                "wan.video"
+            ],
+            "total_results": 10
+        }
+    },
+    "Netflix VOID": {
+        "google_top_domains": [
+            "forbes.com",
+            "huggingface.co",
+            "netflix.com",
+            "marktechpost.com",
+            "therecursive.com"
+        ],
+        "Serper": {
+            "overlap": 2,
+            "overlap_domains": [
+                "marktechpost.com",
+                "netflix.com"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "marktechpost.com",
+                "netflix.com",
+                "reddit.com",
+                "mobilesyrup.com",
+                "instagram.com"
+            ],
+            "total_results": 9
+        },
+        "Brave": {
+            "overlap": 4,
+            "overlap_domains": [
+                "forbes.com",
+                "huggingface.co",
+                "marktechpost.com",
+                "netflix.com"
+            ],
+            "top3_hit": "3/3",
+            "engine_top5": [
+                "reddit.com",
+                "huggingface.co",
+                "marktechpost.com",
+                "medium.com",
+                "forbes.com"
+            ],
+            "total_results": 10
+        },
+        "Tavily": {
+            "overlap": 2,
+            "overlap_domains": [
+                "marktechpost.com",
+                "netflix.com"
+            ],
+            "top3_hit": "1/3",
+            "engine_top5": [
+                "instagram.com",
+                "youtube.com",
+                "reddit.com",
+                "linkedin.com",
+                "marktechpost.com"
+            ],
+            "total_results": 9
+        }
+    }
+}

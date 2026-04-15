@@ -1,0 +1,770 @@
+{
+  "ElevenMusic": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2025-08-05",
+      "top_snippets": [
+        {
+          "title": "The launch of Eleven Music on Tuesday 5 August was widely ..",
+          "date": "Aug 8, 2025"
+        },
+        {
+          "title": "ElevenLabs Launches Eleven Music With Full Licensing",
+          "date": "Sep 2, 2025"
+        },
+        {
+          "title": "ElevenLabs' Post - LinkedIn",
+          "date": "Aug 8, 2025"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-04-01",
+      "top_snippets": [
+        {
+          "title": "ElevenLabs releases a new AI-powered music-generation app | ",
+          "date": "2026-04-02T19:14:40"
+        },
+        {
+          "title": "ElevenLabs Launches AI Music App ElevenMusic for Song ...",
+          "date": "2026-04-03T10:02:33"
+        },
+        {
+          "title": "ElevenLabs Launches ElevenMusic For AI Song Creation On IPho",
+          "date": "2026-04-03T15:50:04"
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "2025-08-05",
+      "top_snippets": [
+        {
+          "title": "Eleven Music, new AI rival to Suno, launches with Kobalt, Me",
+          "date": ""
+        },
+        {
+          "title": "In August, we launched Eleven Music, our high quality, fully",
+          "date": ""
+        },
+        {
+          "title": "Eleven (single album) - Wikipedia",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-04-01",
+      "top_snippets": [
+        {
+          "title": "ElevenLabs launches ElevenMusic iOS app, taking on Suno and ",
+          "date": "2026-04-07T15:21:50.000Z"
+        },
+        {
+          "title": "ElevenLabs Launches ElevenMusic App To Expand Into AI Genera",
+          "date": "2026-04-03T13:00:00.000Z"
+        },
+        {
+          "title": "ElevenLabs Launches ElevenMusic: AI Music Generator App | Ge",
+          "date": "2026-04-03T00:00:00.000Z"
+        }
+      ]
+    }
+  },
+  "DynaVid": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Awesome SDG-RAD - Synthetic Data Generation - Realistic ... ",
+          "date": ""
+        },
+        {
+          "title": "IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN ...",
+          "date": ""
+        },
+        {
+          "title": "Computer Vision - Microsoft Research",
+          "date": ""
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 1,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Automotive Digital Signage- Dynavid",
+          "date": ""
+        },
+        {
+          "title": "DYNAVID LTD overview - Find and update company information -",
+          "date": ""
+        },
+        {
+          "title": "Dynavid, Ltd. in Las Vegas NV - Company Profile",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "FIRMWARE UPDATES - Dynavin North America",
+          "date": ""
+        },
+        {
+          "title": "History - Dynavin",
+          "date": ""
+        },
+        {
+          "title": "Dynavin 9 Radios – Dynavin North America",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": "2026-04-02",
+      "top_snippets": [
+        {
+          "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Sy",
+          "date": "2026-04-02T00:00:00.000Z"
+        },
+        {
+          "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Sy",
+          "date": "2026-04-02T06:12:38.000Z"
+        },
+        {
+          "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Sy",
+          "date": "2026-04-02T06:12:38.000Z"
+        }
+      ]
+    }
+  },
+  "Ideogram Layerize": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "New feature @ideogram.ai today!! Check out this Layerize Tex",
+          "date": "1 day ago"
+        },
+        {
+          "title": "fal-ai/ideogram/v3/layerize-text",
+          "date": ""
+        },
+        {
+          "title": "Ideogram Layerize | Extract editable text layers from graphi",
+          "date": "1 day ago"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 2,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Ideogram | Image to Image | fal.ai",
+          "date": ""
+        },
+        {
+          "title": "ideogram/v3/layerize-text",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "New feature @ideogram.ai today!! Check out this Layerize Tex",
+          "date": ""
+        },
+        {
+          "title": "Ideogram AI launches version 3.0 of its AI image generation",
+          "date": ""
+        },
+        {
+          "title": "Ideogram v3 this month?? : r/ideogramai - Reddit",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Seedream v4.5 vs v4.0: ByteDance AI Image Generation Evoluti",
+          "date": "2025-12-04T20:58:47.000Z"
+        },
+        {
+          "title": "ideogram",
+          "date": "2016-06-15T03:14:15.000Z"
+        },
+        {
+          "title": "ideogram",
+          "date": "2016-06-15T03:14:15.000Z"
+        }
+      ]
+    }
+  },
+  "Seedance 2.0": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": "2026-02-12",
+      "top_snippets": [
+        {
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.",
+          "date": "Mar 15, 2026"
+        },
+        {
+          "title": "Seedance 2.0 Has Released (kinda...) - YouTube",
+          "date": "Mar 24, 2026"
+        },
+        {
+          "title": "Seedance 2.0 Official Launch - ByteDance Seed",
+          "date": "Feb 12, 2026"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-02-12",
+      "top_snippets": [
+        {
+          "title": "Seedance 2.0 - Wikipedia",
+          "date": "2026-04-05T09:37:19"
+        },
+        {
+          "title": "Seed News - ByteDance Seed Team",
+          "date": "2026-02-12T00:00:00"
+        },
+        {
+          "title": "Seedance 2.0 AI Video Generator | ByteDance Video AI | Agent",
+          "date": "2026-02-25T04:50:42"
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "2025-06-01",
+      "top_snippets": [
+        {
+          "title": "Seedance 2.0 - Wikipedia",
+          "date": ""
+        },
+        {
+          "title": "I am sorry but Seedance 2.0 will likely be delayed from the ",
+          "date": ""
+        },
+        {
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 2,
+      "extracted_date": "2026-02-12",
+      "top_snippets": [
+        {
+          "title": "Seedance 2.0 - Wikipedia",
+          "date": ""
+        },
+        {
+          "title": "Seedance 2.0 Official Launch - ByteDance Seed",
+          "date": ""
+        },
+        {
+          "title": "Seedance 2.0 Announced: Latest Updates, Features - Atlas Clo",
+          "date": "2026-02-10T20:00:35.000Z"
+        }
+      ]
+    }
+  },
+  "MemPalace": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "What inspired the idea of MemPalace is that I realized after",
+          "date": "2 days ago"
+        },
+        {
+          "title": "An Unexpected Entry Into AI Memory: Milla Jovovich's Open-So",
+          "date": "1 day ago"
+        },
+        {
+          "title": "Open-sourced an AI memory system that scores higher then eve",
+          "date": "1 day ago"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-04-06",
+      "top_snippets": [
+        {
+          "title": "What Is MemPalace? Milla Jovovich AI Memory Palace System Ex",
+          "date": "2026-04-07T11:28:51"
+        },
+        {
+          "title": "Milla Jovovich creates MemPalace AI memory tool with “perfec",
+          "date": "2026-04-08T13:55:04"
+        },
+        {
+          "title": "MemPalace: 170 Tokens to Recall Everything — A Long-Term Mem",
+          "date": "2026-04-07T22:55:04"
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "2026-04-02",
+      "top_snippets": [
+        {
+          "title": "What inspired the idea of MemPalace is that I realized after",
+          "date": ""
+        },
+        {
+          "title": "Milla Jovovich — yes, the actress from Resident Evil and The",
+          "date": ""
+        },
+        {
+          "title": "Milla Jovovich just released an AI memory system. It reached",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-04-05",
+      "top_snippets": [
+        {
+          "title": "milla-jovovich/mempalace",
+          "date": "2026-04-05T01:12:07.000Z"
+        },
+        {
+          "title": "MemPalace Open-Source Memory System Claims Perfect ...",
+          "date": "2026-04-07T01:14:47.000Z"
+        },
+        {
+          "title": "How Milla Jovovich Built MemPalace — The Full Story | MemPal",
+          "date": "2026-04-06T22:12:18.000Z"
+        }
+      ]
+    }
+  },
+  "ai music video generator": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 2,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Best AI music video generator in 2026? : r/ArtificialIntelig",
+          "date": "Jan 20, 2026"
+        },
+        {
+          "title": "Beatviz and the Rise of the AI Music Video Generator: How Ar",
+          "date": "Jan 31, 2026"
+        },
+        {
+          "title": "AI Music Video Generator MAIVE - App Store - Apple",
+          "date": ""
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 1,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "AI Music Video Generator | Professional 4K Audio-Reactive Vi",
+          "date": "2026-03-11T07:04:08"
+        },
+        {
+          "title": "freebeat AI Music Video Generator | Dance Video | Lyrics Vid",
+          "date": ""
+        },
+        {
+          "title": "Free AI Music Video Generator (No Editing Needed) – One More",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "2025-12-18",
+      "top_snippets": [
+        {
+          "title": "freebeat Launches New AI Music Video Generator Built for Sin",
+          "date": ""
+        },
+        {
+          "title": "How to Make AI Music Videos in 2026 (AI Music Video Generato",
+          "date": ""
+        },
+        {
+          "title": "Best AI Music Video Generators in 2026: Fully Tested - Cyber",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "MusicBud.ai | AI Music Video Generator",
+          "date": "2026-03-28T03:06:36.000Z"
+        },
+        {
+          "title": "Best AI music video generator in 2026? : r/ArtificialIntelig",
+          "date": "2026-01-20T00:00:00.000Z"
+        },
+        {
+          "title": "Home - AI Music Video Generator | FREE",
+          "date": "2026-02-25T19:24:57.000Z"
+        }
+      ]
+    }
+  },
+  "Woosh": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 2,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Woosh Shark Tank Update – Shark Tank Season 14",
+          "date": ""
+        },
+        {
+          "title": "Woosh: Transform your home's HVAC into a smart air purifier",
+          "date": "Apr 12, 2022"
+        },
+        {
+          "title": "Woosh Smart Air Filter Shark Tank Season 14",
+          "date": "Oct 10, 2022"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 3,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "WOOSH! - FORCEPARKBOIS: Song Lyrics, Music Videos & Concerts",
+          "date": "2020-05-29T00:00:00"
+        },
+        {
+          "title": "Jah Woosh & Sis Bee: Rebellion - VINYL LP – Tower Records",
+          "date": ""
+        },
+        {
+          "title": "(7th) Woosh - Time Will Tell #Exclusive by imranpatel: Liste",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "\"Whoosh!\" To Be Released August 7th | News - Deep Purple",
+          "date": ""
+        },
+        {
+          "title": "DEEP PURPLE’S \"WHOOSH!\" RELEASE DATE MOVED TO AUGUST 7TH - E",
+          "date": ""
+        },
+        {
+          "title": "WOOSHIE WOOSH! - Jacksepticeye Wiki - Fandom",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Did Woosh Air Filter Survive After Shark Tank? Here's What .",
+          "date": "2026-02-06T20:17:00.000Z"
+        },
+        {
+          "title": "Woosh Smart Air Filter Shark Tank Season 14",
+          "date": "2022-10-10T16:12:45.000Z"
+        },
+        {
+          "title": "Woosh Shark Tank Update – Shark Tank Season 14",
+          "date": "2022-10-10T15:45:57.000Z"
+        }
+      ]
+    }
+  },
+  "Omni123": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 3,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Let me know if you need options! - Facebook",
+          "date": "Dec 14, 2025"
+        },
+        {
+          "title": "omni123 Tournament Finishes - MTGGoldfish",
+          "date": ""
+        },
+        {
+          "title": "1 Comparison of Text-to-3D paradigms - arXiv",
+          "date": "6 days ago"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 1,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "(@omni123) • Instagram photos and videos",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "U.S. OMNI - News",
+          "date": ""
+        },
+        {
+          "title": "Omni Roadmap 2024 - The Omni Group",
+          "date": ""
+        },
+        {
+          "title": "Our Cases - Omni Agent Solutions",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 3,
+      "extracted_date": "2026-04-02",
+      "top_snippets": [
+        {
+          "title": "1 Comparison of Text-to-3D paradigms - arXiv",
+          "date": "2026-04-02T23:10:15.843Z"
+        },
+        {
+          "title": "Omni123: Exploring 3D Native Foundation Models with Limited ",
+          "date": "2026-04-02T00:00:00.000Z"
+        },
+        {
+          "title": "[2604.02289] Omni123: Exploring 3D Native Foundation Models ",
+          "date": ""
+        }
+      ]
+    }
+  },
+  "SonoWorld": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 2,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Did You Know? On the SonoWorld Lectures Directory page, List",
+          "date": "Aug 15, 2017"
+        },
+        {
+          "title": "Can ultrasound be helpful in selecting optimal management ..",
+          "date": ""
+        },
+        {
+          "title": "Press releases - 123 Sonography",
+          "date": ""
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "1999-01-01",
+      "top_snippets": [
+        {
+          "title": "SonoWorld - YouTube",
+          "date": ""
+        },
+        {
+          "title": "SonoWorld | LinkedIn",
+          "date": ""
+        },
+        {
+          "title": "SonoWorld | Facebook",
+          "date": ""
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "Sounding out the future of ultrasound education - PMC",
+          "date": ""
+        },
+        {
+          "title": "Did You Know? On the SonoWorld Lectures Directory page, List",
+          "date": ""
+        },
+        {
+          "title": "Sonoworld Diagnostic Services Limited - Care Quality Commiss",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 4,
+      "extracted_date": null,
+      "top_snippets": [
+        {
+          "title": "123Sonography Acquires SonoWorld Website from Inteleos",
+          "date": "2019-01-16T19:00:00.000Z"
+        },
+        {
+          "title": "Press releases - 123 Sonography",
+          "date": "2020-04-09T07:02:04.000Z"
+        },
+        {
+          "title": "Private Ultrasound Scans London | Same-Day Diagnostic Clinic",
+          "date": "2023-03-27T11:10:52.000Z"
+        }
+      ]
+    }
+  },
+  "Netflix VOID": {
+    "Serper": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2023-10-23",
+      "top_snippets": [
+        {
+          "title": "Netflix releases it 1st Video LLM : Void-Model - Medium",
+          "date": "1 day ago"
+        },
+        {
+          "title": "Netflix just dropped their first public model on Hugging Fac",
+          "date": "5 days ago"
+        },
+        {
+          "title": "Netflix just released VOID, an open source video editing sys",
+          "date": "1 day ago"
+        }
+      ]
+    },
+    "Brave": {
+      "result_count": 3,
+      "date_metadata_count": 3,
+      "extracted_date": "2026-04-02",
+      "top_snippets": [
+        {
+          "title": "Netflix VOID model - Netflix enters AI video race with VOID ",
+          "date": "2026-04-06T11:08:19"
+        },
+        {
+          "title": "Physics-Aware Editing: Netflix VOID AI for Realistic Video O",
+          "date": "2026-04-05T09:15:04"
+        },
+        {
+          "title": "Netflix VOID Erases Video Objects and Rewrites Physics | Awe",
+          "date": "2026-04-04T22:17:11"
+        }
+      ]
+    },
+    "Tavily": {
+      "result_count": 5,
+      "date_metadata_count": 0,
+      "extracted_date": "2026-04-03",
+      "top_snippets": [
+        {
+          "title": "Watch The Void | Netflix",
+          "date": ""
+        },
+        {
+          "title": "Netflix just released VOID, an open-source framework built t",
+          "date": ""
+        },
+        {
+          "title": "The Void (2016) - IMDb",
+          "date": ""
+        }
+      ]
+    },
+    "Exa": {
+      "result_count": 5,
+      "date_metadata_count": 5,
+      "extracted_date": "2026-04-03",
+      "top_snippets": [
+        {
+          "title": "Netflix's VOID AI removes objects while preserving real-worl",
+          "date": "2026-04-08T12:00:53.000Z"
+        },
+        {
+          "title": "Netflix Releases First Open-Source Model: VOID for Video Obj",
+          "date": "2026-04-03T12:25:09.000Z"
+        },
+        {
+          "title": "Netflix’s VOID Makes Video Object Removal Look Real - Blue L",
+          "date": "2026-04-03T16:19:37.000Z"
+        }
+      ]
+    }
+  }
+}

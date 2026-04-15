@@ -1,0 +1,17 @@
+### 1. Serper API
+Failed to connect to Serper API (Timeout or Network Error): HTTPSConnectionPool(host='google.serper.dev', port=443): Read timed out. (read timeout=15)
+
+### 2. Brave Search API
+Failed to connect to Brave Search API (Timeout or Network Error): HTTPSConnectionPool(host='api.search.brave.com', port=443): Read timed out. (read timeout=15)
+
+### 3. Tavily API
+1. [HappyHorse 1.0 AI](https://happyhorse-ai.com/)
+2. [Happy Horse 1.0 - FS25 Mods](https://fs25planet.com/happy-horse.html)
+3. ['HappyHorse-1.0' is currently landing in the #1 spot for Text and ...](https://x.com/Elaina43114880/status/2041597415342666013)
+4. [now what is Happy Horse 1.0, better than Seedance 2.0](https://x.com/arsh_goyal/status/2041479518221976012)
+5. ['HappyHorse-1.0' is currently landing in the #1 spot for Text ... - Reddit](https://www.reddit.com/r/aivideos/comments/1sfkkec/happyhorse10_is_currently_landing_in_the_1_spot/)
+6. [HappyHorse 1.0 - AI Video Generator | Text to Video AI](https://happyhorse.video/)
+7. [Happy Horse v1.0.0.0 fs25-mods - Mod-Network](https://mod-network.com/en/fs25-mods/detail/95402/happy-horse-v1000)
+8. [A new video model dropped at #1 on the leaderboard It's called ...](https://x.com/venturetwins/status/2041554747086553093)
+9. [While you're waiting for HappyHorse-1.0, Seedance 2.0 remains ...](https://x.com/imgn_ai/status/2041559216503042462)
+10. [HappyHorse AI: HappyHorse 1.0 AI Video Generator Free](https://happyhorseai.net/)

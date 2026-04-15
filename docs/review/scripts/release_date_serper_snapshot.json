@@ -1,0 +1,572 @@
+{
+  "ElevenMusic": {
+    "query1": "\"ElevenMusic\" release date",
+    "query2": "\"ElevenMusic\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Introducing The Eleven Album: A landmark musical release",
+        "url": "https://elevenlabs.io/blog/introducing-the-eleven-album",
+        "snippet": "A landmark musical release created in collaboration with world-class artists and powered by Eleven Music. ... Date: Dec 22, 2025. Eleven ..."
+      },
+      {
+        "title": "ElevenLabs Launches Eleven Music With Full Licensing",
+        "url": "https://jackrighteous.com/en-us/blogs/mont-real/elevenlabs-eleven-music-launch-august-2025?srsltid=AfmBOoppeCdQbv3dCA9JccEmg2hJM8NpJayKfOJir642oeTCXHvQImFN",
+        "snippet": "On August 5, 2025, ElevenLabs launched Eleven Music, an AI music platform built on fully licensed datasets from Merlin and Kobalt to ensure ..."
+      },
+      {
+        "title": "ElevenLabs' Post - LinkedIn",
+        "url": "https://www.linkedin.com/posts/elevenlabsio_the-launch-of-eleven-music-on-tuesday-5-august-activity-7359605648784809987-ISrq",
+        "snippet": "The launch of Eleven Music on Tuesday 5 August was widely covered around the world. Here are some of the highlights from that coverage - links ..."
+      },
+      {
+        "title": "The launch of Eleven Music on Tuesday 5 August was widely ...",
+        "url": "https://x.com/elevenlabsio/status/1953844611165634940",
+        "snippet": "The launch of Eleven Music on Tuesday 5 August was widely covered around the world. Read some of the highlights from that coverage in the ..."
+      },
+      {
+        "title": "ElevenMusic by ElevenLabs - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/elevenmusic-by-elevenlabs/id6755965224",
+        "snippet": "Eleven Music is powered by AI to make discovery smoother and creation easier. So you can focus on listening, creating, and enjoying music."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "ElevenLabs releases a new AI-powered music-generation app",
+        "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+        "snippet": "Voice AI company ElevenLabs has quietly released an iOS app called ElevenMusic that can be used to create music with AI and discover AI ..."
+      },
+      {
+        "title": "ElevenLabs launches music AI app, pivots beyond voice tech",
+        "url": "https://www.techbuzz.ai/articles/elevenlabs-launches-music-ai-app-pivots-beyond-voice-tech",
+        "snippet": "ElevenLabs launches ElevenMusic, an iOS app for creating and remixing songs via text prompts, per TechCrunch."
+      },
+      {
+        "title": "ElevenLabs ElevenMusic launch - technically interesting breakdown ...",
+        "url": "https://www.reddit.com/r/BlackboxAI_/comments/1sc7kph/elevenlabs_elevenmusic_launch_technically/",
+        "snippet": "ElevenLabs ElevenMusic launch - technically interesting breakdown of how they are positioned vs Suno/Udio. Discussion. ElevenLabs launched ..."
+      },
+      {
+        "title": "@elevenlabsio just stopped being a voice company. It is ... - Instagram",
+        "url": "https://www.instagram.com/p/DW50eWMDUcK/",
+        "snippet": "Voice AI company ElevenLabs has quietly launched an iOS app called ElevenMusic, allowing users to create and explore AI-generated music, ..."
+      },
+      {
+        "title": "ElevenLabs launches ElevenMusic for AI song creation on iPhone",
+        "url": "https://www.facebook.com/DataconomyMedia/posts/exciting-news-in-the-world-of-music-and-tech-elevenlabs-has-just-launched-eleven/1537668098366950/",
+        "snippet": "Exciting news in the world of music and tech! ElevenLabs has just launched ElevenMusic, an iOS app that empowers users to create and ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"ElevenMusic\" release date ===\n[1] Introducing The Eleven Album: A landmark musical release (https://elevenlabs.io/blog/introducing-the-eleven-album)\nA landmark musical release created in collaboration with world-class artists and powered by Eleven Music. ... Date: Dec 22, 2025. Eleven ...\n\n[2] ElevenLabs Launches Eleven Music With Full Licensing (https://jackrighteous.com/en-us/blogs/mont-real/elevenlabs-eleven-music-launch-august-2025?srsltid=AfmBOoppeCdQbv3dCA9JccEmg2hJM8NpJayKfOJir642oeTCXHvQImFN)\nOn August 5, 2025, ElevenLabs launched Eleven Music, an AI music platform built on fully licensed datasets from Merlin and Kobalt to ensure ...\n\n[3] ElevenLabs' Post - LinkedIn (https://www.linkedin.com/posts/elevenlabsio_the-launch-of-eleven-music-on-tuesday-5-august-activity-7359605648784809987-ISrq)\nThe launch of Eleven Music on Tuesday 5 August was widely covered around the world. Here are some of the highlights from that coverage - links ...\n\n[4] The launch of Eleven Music on Tuesday 5 August was widely ... (https://x.com/elevenlabsio/status/1953844611165634940)\nThe launch of Eleven Music on Tuesday 5 August was widely covered around the world. Read some of the highlights from that coverage in the ...\n\n[5] ElevenMusic by ElevenLabs - App Store - Apple (https://apps.apple.com/us/app/elevenmusic-by-elevenlabs/id6755965224)\nEleven Music is powered by AI to make discovery smoother and creation easier. So you can focus on listening, creating, and enjoying music.\n\n=== Query 2: \"ElevenMusic\" official launch announcement ===\n[1] ElevenLabs releases a new AI-powered music-generation app (https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/)\nVoice AI company ElevenLabs has quietly released an iOS app called ElevenMusic that can be used to create music with AI and discover AI ...\n\n[2] ElevenLabs launches music AI app, pivots beyond voice tech (https://www.techbuzz.ai/articles/elevenlabs-launches-music-ai-app-pivots-beyond-voice-tech)\nElevenLabs launches ElevenMusic, an iOS app for creating and remixing songs via text prompts, per TechCrunch.\n\n[3] ElevenLabs ElevenMusic launch - technically interesting breakdown ... (https://www.reddit.com/r/BlackboxAI_/comments/1sc7kph/elevenlabs_elevenmusic_launch_technically/)\nElevenLabs ElevenMusic launch - technically interesting breakdown of how they are positioned vs Suno/Udio. Discussion. ElevenLabs launched ...\n\n[4] @elevenlabsio just stopped being a voice company. It is ... - Instagram (https://www.instagram.com/p/DW50eWMDUcK/)\nVoice AI company ElevenLabs has quietly launched an iOS app called ElevenMusic, allowing users to create and explore AI-generated music, ...\n\n[5] ElevenLabs launches ElevenMusic for AI song creation on iPhone (https://www.facebook.com/DataconomyMedia/posts/exciting-news-in-the-world-of-music-and-tech-elevenlabs-has-just-launched-eleven/1537668098366950/)\nExciting news in the world of music and tech! ElevenLabs has just launched ElevenMusic, an iOS app that empowers users to create and ..."
+  },
+  "DynaVid": {
+    "query1": "\"DynaVid\" release date",
+    "query2": "\"DynaVid\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN ...",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-alsd-1_19-cv-00733/pdf/USCOURTS-alsd-1_19-cv-00733-0.pdf",
+        "snippet": "By agreement,. JAC made monthly payments to Dynavid from May 2016 until the time the property sold in April 2019. (Id. at ¶ 15). Although JAC executed the ..."
+      },
+      {
+        "title": "Awesome SDG-RAD - Synthetic Data Generation - Realistic ... - GitHub",
+        "url": "https://github.com/gauravfs-14/awesome-sdg-rad",
+        "snippet": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data. Library. Tutorial. Written Tutorials. Video Tutorials. Contributing. We welcome ..."
+      },
+      {
+        "title": "[PDF] Untitled - Wyoming Business Division",
+        "url": "https://wyobiz.wyo.gov/Business/GetImages.aspx?sid=172003103175166230198064218093041042188158054179&stid=143081052037131049174101151060105191121240225143",
+        "snippet": "115, Cheyenne, WY,. 82001, voluntarily consents to serve as the registered agent for DYNAVID INC., on the date shown below;. II. The undersigned by and on ..."
+      },
+      {
+        "title": "[PDF] A NEW ERA IN NEWS ACQUISITION - World Radio History",
+        "url": "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BME/80s/BME-1983-09.pdf",
+        "snippet": "Dynavid Corp. 113. 177. Electro-Voice. 81. 152. Fidelipac. Forte!, Inc. Fujinon Inc. Fuji Photo Film USA, Inc. Greene Crowe & Co. Harris ..."
+      },
+      {
+        "title": "[PDF] Cases To Department 1",
+        "url": "https://www.clarkcountycourts.us/res/rules-and-orders/AO%2017-05.pdf",
+        "snippet": "... Dynavid Ltd, et al. 01A432453. In the Matter of the Compromise of Minor's Claim by Jerome Imonigie. 01A433086. Nevada Division Of Environmental Prote vs Las ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "[PDF] A NEW ERA IN NEWS ACQUISITION - World Radio History",
+        "url": "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BME/80s/BME-1983-09.pdf",
+        "snippet": "Technics announced the release of its consumer machine at the ... Dynavid Corp. 113. 177. Electro-Voice. 81. 152. Fidelipac. Forte!, Inc."
+      },
+      {
+        "title": "[PDF] start of roll no. - Maryland State Archives",
+        "url": "https://msa.maryland.gov/megafile/msa/coagserm/cm1400/cm1414/000000/000071/pdf/msa_cm1414_000071.pdf",
+        "snippet": "(2) 1986 Aug 22 Notice of Consolidation and Demand for Jury Trial mailed to messrs. ... Dynavid E. Furrer. :rQ1n<fToirfn1 t\"ll1lL,. ADDITIONAL ..."
+      },
+      {
+        "title": "[PDF] CRITERION - † Archdiocese of Indianapolis",
+        "url": "https://www.archindy.org/criterion/files/1986/pdfs/19860110.pdf",
+        "snippet": "ON TOP OF THINGS—Thomas Allebrandi of Dynavid Corp. insta'is a satellite dish on the roof of the Catholic Center. Diagram below shows the ..."
+      },
+      {
+        "title": "AIBriefs — AI News Curated Daily",
+        "url": "https://aibriefs.news/",
+        "snippet": "DynaVid improves video generation using synthetic motion data. DynaVid addresses the scarcity of high-motion training examples by utilizing ..."
+      },
+      {
+        "title": "Full text of \"Polk's Indianapolis suburban (Marion County, Indiana ...",
+        "url": "https://archive.org/stream/polksindianapol1986unse/polksindianapol1986unse_djvu.txt",
+        "snippet": "... official personnel, nature and address of each firm and corporation in the communities. ... Dynavid Corporation 5603 E 82d St Economy Servicenter 1863 German ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"DynaVid\" release date ===\n[1] IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN ... (https://www.govinfo.gov/content/pkg/USCOURTS-alsd-1_19-cv-00733/pdf/USCOURTS-alsd-1_19-cv-00733-0.pdf)\nBy agreement,. JAC made monthly payments to Dynavid from May 2016 until the time the property sold in April 2019. (Id. at ¶ 15). Although JAC executed the ...\n\n[2] Awesome SDG-RAD - Synthetic Data Generation - Realistic ... - GitHub (https://github.com/gauravfs-14/awesome-sdg-rad)\nDynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data. Library. Tutorial. Written Tutorials. Video Tutorials. Contributing. We welcome ...\n\n[3] [PDF] Untitled - Wyoming Business Division (https://wyobiz.wyo.gov/Business/GetImages.aspx?sid=172003103175166230198064218093041042188158054179&stid=143081052037131049174101151060105191121240225143)\n115, Cheyenne, WY,. 82001, voluntarily consents to serve as the registered agent for DYNAVID INC., on the date shown below;. II. The undersigned by and on ...\n\n[4] [PDF] A NEW ERA IN NEWS ACQUISITION - World Radio History (https://www.worldradiohistory.com/Archive-All-BC-Engineering/BME/80s/BME-1983-09.pdf)\nDynavid Corp. 113. 177. Electro-Voice. 81. 152. Fidelipac. Forte!, Inc. Fujinon Inc. Fuji Photo Film USA, Inc. Greene Crowe & Co. Harris ...\n\n[5] [PDF] Cases To Department 1 (https://www.clarkcountycourts.us/res/rules-and-orders/AO%2017-05.pdf)\n... Dynavid Ltd, et al. 01A432453. In the Matter of the Compromise of Minor's Claim by Jerome Imonigie. 01A433086. Nevada Division Of Environmental Prote vs Las ...\n\n=== Query 2: \"DynaVid\" official launch announcement ===\n[1] [PDF] A NEW ERA IN NEWS ACQUISITION - World Radio History (https://www.worldradiohistory.com/Archive-All-BC-Engineering/BME/80s/BME-1983-09.pdf)\nTechnics announced the release of its consumer machine at the ... Dynavid Corp. 113. 177. Electro-Voice. 81. 152. Fidelipac. Forte!, Inc.\n\n[2] [PDF] start of roll no. - Maryland State Archives (https://msa.maryland.gov/megafile/msa/coagserm/cm1400/cm1414/000000/000071/pdf/msa_cm1414_000071.pdf)\n(2) 1986 Aug 22 Notice of Consolidation and Demand for Jury Trial mailed to messrs. ... Dynavid E. Furrer. :rQ1n<fToirfn1 t\"ll1lL,. ADDITIONAL ...\n\n[3] [PDF] CRITERION - † Archdiocese of Indianapolis (https://www.archindy.org/criterion/files/1986/pdfs/19860110.pdf)\nON TOP OF THINGS—Thomas Allebrandi of Dynavid Corp. insta'is a satellite dish on the roof of the Catholic Center. Diagram below shows the ...\n\n[4] AIBriefs — AI News Curated Daily (https://aibriefs.news/)\nDynaVid improves video generation using synthetic motion data. DynaVid addresses the scarcity of high-motion training examples by utilizing ...\n\n[5] Full text of \"Polk's Indianapolis suburban (Marion County, Indiana ... (https://archive.org/stream/polksindianapol1986unse/polksindianapol1986unse_djvu.txt)\n... official personnel, nature and address of each firm and corporation in the communities. ... Dynavid Corporation 5603 E 82d St Economy Servicenter 1863 German ..."
+  },
+  "Ideogram Layerize": {
+    "query1": "\"Ideogram Layerize\" release date",
+    "query2": "\"Ideogram Layerize\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "New feature @ideogram.ai today!! Check out this Layerize Text tool ...",
+        "url": "https://www.instagram.com/reel/DW1w-ZNiHPl/",
+        "snippet": "Ideogram just released a new feature called Layerize Text. In ... Go ideogram and try it out today. OCR. 我 ideogram Layerize text BETA ..."
+      },
+      {
+        "title": "Seedream v4.5 vs v4.0: ByteDance AI Image Generation Evolution",
+        "url": "https://fal.ai/learn/devs/seedream-v4-5-vs-v4-0",
+        "snippet": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers. new. ideogram/v3/layerize-text. image ..."
+      },
+      {
+        "title": "Seedance 2 Image to Video - Explore AI Models | fal.ai",
+        "url": "https://fal.ai/explore/models",
+        "snippet": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format. stylized."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Creativity AI #70: Midjourney V8.1 next week, Niantic scans the ...",
+        "url": "https://geekycuriosity.substack.com/p/creativity-ai-70-midjourney-v81-next",
+        "snippet": "Text has always been a weak spot in Midjourney image generation (even in V8), and Ideogram keeps chipping away at it. Ideogram Layerize UI."
+      },
+      {
+        "title": "Seedance 2 Image to Video - Explore AI Models | fal.ai",
+        "url": "https://fal.ai/explore/models",
+        "snippet": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format. stylized."
+      },
+      {
+        "title": "Sync Lipsync React-1 Parameter Configuration Guide - Fal.ai",
+        "url": "https://fal.ai/learn/devs/sync-lipsync-react-1-paramter-guide",
+        "snippet": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or ..."
+      },
+      {
+        "title": "LTX Video 2.0 Pro Image to Video Prompt Guide | fal.ai",
+        "url": "https://fal.ai/learn/devs/ltx-video-2-pro-image-to-video-prompt-guide",
+        "snippet": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"Ideogram Layerize\" release date ===\n[1] New feature @ideogram.ai today!! Check out this Layerize Text tool ... (https://www.instagram.com/reel/DW1w-ZNiHPl/)\nIdeogram just released a new feature called Layerize Text. In ... Go ideogram and try it out today. OCR. 我 ideogram Layerize text BETA ...\n\n[2] Seedream v4.5 vs v4.0: ByteDance AI Image Generation Evolution (https://fal.ai/learn/devs/seedream-v4-5-vs-v4-0)\nIdeogram Layerize takes an existing flat graphic, removes text, and returns structured text containers. new. ideogram/v3/layerize-text. image ...\n\n[3] Seedance 2 Image to Video - Explore AI Models | fal.ai (https://fal.ai/explore/models)\nIdeogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format. stylized.\n\n=== Query 2: \"Ideogram Layerize\" official launch announcement ===\n[1] Creativity AI #70: Midjourney V8.1 next week, Niantic scans the ... (https://geekycuriosity.substack.com/p/creativity-ai-70-midjourney-v81-next)\nText has always been a weak spot in Midjourney image generation (even in V8), and Ideogram keeps chipping away at it. Ideogram Layerize UI.\n\n[2] Seedance 2 Image to Video - Explore AI Models | fal.ai (https://fal.ai/explore/models)\nIdeogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format. stylized.\n\n[3] Sync Lipsync React-1 Parameter Configuration Guide - Fal.ai (https://fal.ai/learn/devs/sync-lipsync-react-1-paramter-guide)\nIdeogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or ...\n\n[4] LTX Video 2.0 Pro Image to Video Prompt Guide | fal.ai (https://fal.ai/learn/devs/ltx-video-2-pro-image-to-video-prompt-guide)\nIdeogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or ..."
+  },
+  "Seedance 2.0": {
+    "query1": "\"Seedance 2.0\" release date",
+    "query2": "\"Seedance 2.0\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 ...",
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "snippet": "The company had planned to make Seedance 2.0 available globally in mid-March, The Information said, but it's delaying those plans as its ..."
+      },
+      {
+        "title": "Seedance 2.0 Has Released (kinda...) - YouTube",
+        "url": "https://www.youtube.com/watch?v=R8l3AHw-6Og",
+        "snippet": "Seedance 2.0 has finally released — sort of. After months of delays, lawsuits, and rumors of cancellation, ByteDance has made the model ..."
+      },
+      {
+        "title": "Seedance 2.0 Official Launch - ByteDance Seed",
+        "url": "https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0",
+        "snippet": "Seedance 2.0 Official Launch. Seedance 2.0 Official Launch. Date. 2026-02-12. Category."
+      },
+      {
+        "title": "I am sorry but Seedance 2.0 will likely be delayed from the originally ...",
+        "url": "https://www.reddit.com/r/generativeAI/comments/1rbx25u/i_am_sorry_but_seedance_20_will_likely_be_delayed/",
+        "snippet": "I am sorry but Seedance 2.0 will likely be delayed from the originally planned release date 24th. And even worse, after the lawsuit ..."
+      },
+      {
+        "title": "Seedance 2.0 Coming Soon: Features, Release Date & How to Use ...",
+        "url": "https://www.atlascloud.ai/blog/ai-updates/Seedance-2-0-Coming-Soon-Features-Release-Date-How-to-Use-on-Atlas-Cloud",
+        "snippet": "Seedance 2.0 Coming Soon: Features, Release Date & How to Use on Atlas Cloud. BLOG ARTICLE3 min read. Posted by Atlas CloudMarch 24, 2026 ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Seedance 2.0 Official Launch - ByteDance Seed",
+        "url": "https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0",
+        "snippet": "We recently launched Seedance 2.0, our next-generation video creation model. Built with a unified multimodal audio-video joint generation ..."
+      },
+      {
+        "title": "Seedance 2.0 Launches with Director-Level Control for AI ...",
+        "url": "https://finance.yahoo.com/news/seedance-2-0-launches-director-124700489.html",
+        "snippet": "BELLEVUE, WA / ACCESS Newswire / February 10, 2026 /Seedance 2.0 has officially launched Seedance 2.0, a new AI video generation platform ..."
+      },
+      {
+        "title": "Seed 2.0 Official Launch - Seed News - ByteDance Seed Team",
+        "url": "https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+        "snippet": "Seed 2.0 Official Launch. ... Seed2.0Seedance 2.0Seedream 5.0 LiteSeed Realtime VoiceSeed GR-RL."
+      },
+      {
+        "title": "Seedance 2.0 is FINALLY HERE and It's WILD - YouTube",
+        "url": "https://www.youtube.com/watch?v=jz48HEqUkZ0",
+        "snippet": "... start building your own cinematic universe. Don't forget to ... Seedance 2.0: NEW Method for Consistent Characters (+50 NEW Viral Prompts)."
+      },
+      {
+        "title": "Seedance 2.0 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seedance_2.0",
+        "snippet": "Seedance 2.0 ; ByteDance · June 2025; 10 months ago (2025-06) · Seedance 2.0 / February 2026; 2 months ago (2026-02)."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"Seedance 2.0\" release date ===\n[1] ByteDance reportedly pauses global launch of its Seedance 2.0 ... (https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)\nThe company had planned to make Seedance 2.0 available globally in mid-March, The Information said, but it's delaying those plans as its ...\n\n[2] Seedance 2.0 Has Released (kinda...) - YouTube (https://www.youtube.com/watch?v=R8l3AHw-6Og)\nSeedance 2.0 has finally released — sort of. After months of delays, lawsuits, and rumors of cancellation, ByteDance has made the model ...\n\n[3] Seedance 2.0 Official Launch - ByteDance Seed (https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0)\nSeedance 2.0 Official Launch. Seedance 2.0 Official Launch. Date. 2026-02-12. Category.\n\n[4] I am sorry but Seedance 2.0 will likely be delayed from the originally ... (https://www.reddit.com/r/generativeAI/comments/1rbx25u/i_am_sorry_but_seedance_20_will_likely_be_delayed/)\nI am sorry but Seedance 2.0 will likely be delayed from the originally planned release date 24th. And even worse, after the lawsuit ...\n\n[5] Seedance 2.0 Coming Soon: Features, Release Date & How to Use ... (https://www.atlascloud.ai/blog/ai-updates/Seedance-2-0-Coming-Soon-Features-Release-Date-How-to-Use-on-Atlas-Cloud)\nSeedance 2.0 Coming Soon: Features, Release Date & How to Use on Atlas Cloud. BLOG ARTICLE3 min read. Posted by Atlas CloudMarch 24, 2026 ...\n\n=== Query 2: \"Seedance 2.0\" official launch announcement ===\n[1] Seedance 2.0 Official Launch - ByteDance Seed (https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0)\nWe recently launched Seedance 2.0, our next-generation video creation model. Built with a unified multimodal audio-video joint generation ...\n\n[2] Seedance 2.0 Launches with Director-Level Control for AI ... (https://finance.yahoo.com/news/seedance-2-0-launches-director-124700489.html)\nBELLEVUE, WA / ACCESS Newswire / February 10, 2026 /Seedance 2.0 has officially launched Seedance 2.0, a new AI video generation platform ...\n\n[3] Seed 2.0 Official Launch - Seed News - ByteDance Seed Team (https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)\nSeed 2.0 Official Launch. ... Seed2.0Seedance 2.0Seedream 5.0 LiteSeed Realtime VoiceSeed GR-RL.\n\n[4] Seedance 2.0 is FINALLY HERE and It's WILD - YouTube (https://www.youtube.com/watch?v=jz48HEqUkZ0)\n... start building your own cinematic universe. Don't forget to ... Seedance 2.0: NEW Method for Consistent Characters (+50 NEW Viral Prompts).\n\n[5] Seedance 2.0 - Wikipedia (https://en.wikipedia.org/wiki/Seedance_2.0)\nSeedance 2.0 ; ByteDance · June 2025; 10 months ago (2025-06) · Seedance 2.0 / February 2026; 2 months ago (2026-02)."
+  },
+  "MemPalace": {
+    "query1": "\"MemPalace\" release date",
+    "query2": "\"MemPalace\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "What inspired the idea of MemPalace is that I realized after months ...",
+        "url": "https://www.instagram.com/reel/DWzNnqwD2Lu/",
+        "snippet": "... MemPalace” to life. Click the link in my bio and check out the ... -have it date and time stamp the docs so that reiterated work can be seen ..."
+      },
+      {
+        "title": "GitHub - milla-jovovich/mempalace: The highest-scoring AI memory ...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1seuoz0/github_millajovovichmempalace_the_highestscoring/",
+        "snippet": "GitHub - milla-jovovich/mempalace: The highest-scoring AI memory system ever benchmarked. ... Release to Date. 3 upvotes. I studied how human ..."
+      },
+      {
+        "title": "An Unexpected Entry Into AI Memory: Milla Jovovich's Open-Source ...",
+        "url": "https://www.linkedin.com/pulse/unexpected-entry-ai-memory-milla-jovovichs-mempalace-alexey-grigorev-diz3f",
+        "snippet": "Milla Jovovich has unexpectedly entered the AI memory conversation with MemPalace, an open-source project she launched with developer Ben Sigman"
+      },
+      {
+        "title": "MemPalace By Mila Jovovich: 96.6% Recall With Zero API Calls ...",
+        "url": "https://ai.gopubby.com/mempalace-by-mila-jovovich-96-6-recall-with-zero-api-calls-too-good-to-be-true-bebcf26271d0",
+        "snippet": "MemPalace By Mila Jovovich: 96.6% Recall With Zero API Calls (Too Good To Be True?) How a spatial memory system built on raw verbatim text ..."
+      },
+      {
+        "title": "FULL STORY at Back2Gaming: Milla Jovovich Co-Devs ... - Instagram",
+        "url": "https://www.instagram.com/p/DW0m2yzFO1W/",
+        "snippet": "0 likes, 0 comments - back2gaming on April 7, 2026: \"FULL STORY at Back2Gaming: Milla Jovovich Co-Devs in Open Source MemPalace Project: An AI"
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Milla Jovovich Releases MemPalace AI Memory System",
+        "url": "https://letsdatascience.com/news/milla-jovovich-releases-mempalace-ai-memory-system-f5388a28",
+        "snippet": "Actress Milla Jovovich on April 7, 2026 announced an open-source AI knowledge tool called MemPalace, with engineering by Ben Sigman and code ..."
+      },
+      {
+        "title": "A stunning new entry has just arrived in the open-source AI world ...",
+        "url": "https://www.instagram.com/p/DW386dlDOiX/",
+        "snippet": "“Milla Jovovich / mempalace” is being hailed as the highest-scoring AI memory system ever benchmarked—and it's completely free. According to the ..."
+      },
+      {
+        "title": "Resident Evil Star's AI-Coded Tool Accused Of Being Snake Oil",
+        "url": "https://kotaku.com/resident-evil-jovovich-mempalace-ai-github-2000685786",
+        "snippet": "The most surprising thing about MemPalace's announcement is that, according to both its GitHub page and a post on Jovovich's official Instagram, ..."
+      },
+      {
+        "title": "Milla Jovovich just entered the AI space with an open source ...",
+        "url": "https://www.instagram.com/p/DW4Frd0iKm9/",
+        "snippet": "MemPalace is a free, MIT licensed system that gives large language models long term memory across sessions. Instead of letting the model decide ..."
+      },
+      {
+        "title": "'Resident Evil' star debuts AI project - Big News Network.com",
+        "url": "https://www.bignewsnetwork.com/news/278971425/resident-evil-star-debuts-ai-project",
+        "snippet": "Hollywood star Milla Jovovich has released free AI memory tool MemPalace on GitHub Read Full Article at RT.com."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"MemPalace\" release date ===\n[1] What inspired the idea of MemPalace is that I realized after months ... (https://www.instagram.com/reel/DWzNnqwD2Lu/)\n... MemPalace” to life. Click the link in my bio and check out the ... -have it date and time stamp the docs so that reiterated work can be seen ...\n\n[2] GitHub - milla-jovovich/mempalace: The highest-scoring AI memory ... (https://www.reddit.com/r/LocalLLaMA/comments/1seuoz0/github_millajovovichmempalace_the_highestscoring/)\nGitHub - milla-jovovich/mempalace: The highest-scoring AI memory system ever benchmarked. ... Release to Date. 3 upvotes. I studied how human ...\n\n[3] An Unexpected Entry Into AI Memory: Milla Jovovich's Open-Source ... (https://www.linkedin.com/pulse/unexpected-entry-ai-memory-milla-jovovichs-mempalace-alexey-grigorev-diz3f)\nMilla Jovovich has unexpectedly entered the AI memory conversation with MemPalace, an open-source project she launched with developer Ben Sigman\n\n[4] MemPalace By Mila Jovovich: 96.6% Recall With Zero API Calls ... (https://ai.gopubby.com/mempalace-by-mila-jovovich-96-6-recall-with-zero-api-calls-too-good-to-be-true-bebcf26271d0)\nMemPalace By Mila Jovovich: 96.6% Recall With Zero API Calls (Too Good To Be True?) How a spatial memory system built on raw verbatim text ...\n\n[5] FULL STORY at Back2Gaming: Milla Jovovich Co-Devs ... - Instagram (https://www.instagram.com/p/DW0m2yzFO1W/)\n0 likes, 0 comments - back2gaming on April 7, 2026: \"FULL STORY at Back2Gaming: Milla Jovovich Co-Devs in Open Source MemPalace Project: An AI\n\n=== Query 2: \"MemPalace\" official launch announcement ===\n[1] Milla Jovovich Releases MemPalace AI Memory System (https://letsdatascience.com/news/milla-jovovich-releases-mempalace-ai-memory-system-f5388a28)\nActress Milla Jovovich on April 7, 2026 announced an open-source AI knowledge tool called MemPalace, with engineering by Ben Sigman and code ...\n\n[2] A stunning new entry has just arrived in the open-source AI world ... (https://www.instagram.com/p/DW386dlDOiX/)\n“Milla Jovovich / mempalace” is being hailed as the highest-scoring AI memory system ever benchmarked—and it's completely free. According to the ...\n\n[3] Resident Evil Star's AI-Coded Tool Accused Of Being Snake Oil (https://kotaku.com/resident-evil-jovovich-mempalace-ai-github-2000685786)\nThe most surprising thing about MemPalace's announcement is that, according to both its GitHub page and a post on Jovovich's official Instagram, ...\n\n[4] Milla Jovovich just entered the AI space with an open source ... (https://www.instagram.com/p/DW4Frd0iKm9/)\nMemPalace is a free, MIT licensed system that gives large language models long term memory across sessions. Instead of letting the model decide ...\n\n[5] 'Resident Evil' star debuts AI project - Big News Network.com (https://www.bignewsnetwork.com/news/278971425/resident-evil-star-debuts-ai-project)\nHollywood star Milla Jovovich has released free AI memory tool MemPalace on GitHub Read Full Article at RT.com."
+  },
+  "ai music video generator": {
+    "query1": "\"ai music video generator\" release date",
+    "query2": "\"ai music video generator\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Best AI music video generator in 2026? : r/ArtificialInteligence - Reddit",
+        "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1qhp9bf/best_ai_music_video_generator_in_2026/",
+        "snippet": "Best AI music video generator in 2026? Review. Hey guys, I've been ... AI music video generator for a completed song? 11. 8. Using AI in ..."
+      },
+      {
+        "title": "AI Music Video Generator MAIVE - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/ai-music-video-generator-maive/id1660559385",
+        "snippet": "Download AI Music Video Generator MAIVE by Future Moments on the App Store. See screenshots, ratings and reviews, user tips, and more apps like AI Music ..."
+      },
+      {
+        "title": "Beatviz and the Rise of the AI Music Video Generator: How Artists ...",
+        "url": "https://illustratemagazine.com/beatviz-and-the-rise-of-the-ai-music-video-generator-how-artists-will-visualize-sound-in-2026/",
+        "snippet": "By the end of 2026, the AI music video generator will no longer feel new. It will feel necessary. As music continues to evolve, the way we ..."
+      },
+      {
+        "title": "Free AI Music Video Generator - Invideo AI",
+        "url": "https://invideo.io/make/music-video-maker/",
+        "snippet": "Save time with AI music video generator ... Quickly create music videos with AI. Share your idea, and our tool handles the rest in no time."
+      },
+      {
+        "title": "AI Music Video Generator MAIVE - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.futuremoments.maive&hl=en_US",
+        "snippet": "AI Music Video Generator MAIVE - Apps on Google Play. Games · Apps · Movies & TV ... • Musicians releasing new songs • AI music from Suno or Udio • Podcast ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "freebeat.AI Launches World's First AI Music Video Agent",
+        "url": "https://www.globenewswire.com/news-release/2025/08/19/3135860/0/en/freebeat-AI-Launches-World-s-First-AI-Music-Video-Agent-Transforms-Music-Into-Viral-Video-in-One-Click.html",
+        "snippet": "No crews. No budgets. Just the best AI music video generator. A Media Snippet accompanying this announcement is available by clicking on this ..."
+      },
+      {
+        "title": "Announcing the launch of ODM Entertainment, a new film and ...",
+        "url": "https://www.instagram.com/p/DWhCOT3EwgT/",
+        "snippet": "https://illustratemagazine.com/beatviz-and-the-rise-of-the-ai-music-video-generator-how-artists-will-visualize-sound-in-2026/ #AIart ..."
+      },
+      {
+        "title": "**Producer AI – Google's new toy.** You can now create music and ...",
+        "url": "https://www.facebook.com/groups/7836479966373364/posts/26445044478423631/",
+        "snippet": "Best ai music video generator for songs. Rickcannonmusic ▻ Suno Music Creator's Universe. 9w · Public · What is the best and cheapest AI music ..."
+      },
+      {
+        "title": "The Visual Pulse of Gen-Z: How Freebeat.ai Became the Global",
+        "url": "https://www.openpr.com/news/4442575/the-visual-pulse-of-gen-z-how-freebeat-ai-became-the-global",
+        "snippet": "... ai/music-video-generator]. Moving beyond simple lyric video generator functions, the platform acts as an autonomous director. It is now ..."
+      },
+      {
+        "title": "Inside Beatviz: How an AI Music Video Generator Turns Audio into ...",
+        "url": "https://www.mexc.co/en-NG/news/655088",
+        "snippet": "At the core of any AI music video generator is audio analysis. Instead of treating a song as a single file, AI systems break audio into multiple ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"ai music video generator\" release date ===\n[1] Best AI music video generator in 2026? : r/ArtificialInteligence - Reddit (https://www.reddit.com/r/ArtificialInteligence/comments/1qhp9bf/best_ai_music_video_generator_in_2026/)\nBest AI music video generator in 2026? Review. Hey guys, I've been ... AI music video generator for a completed song? 11. 8. Using AI in ...\n\n[2] AI Music Video Generator MAIVE - App Store - Apple (https://apps.apple.com/us/app/ai-music-video-generator-maive/id1660559385)\nDownload AI Music Video Generator MAIVE by Future Moments on the App Store. See screenshots, ratings and reviews, user tips, and more apps like AI Music ...\n\n[3] Beatviz and the Rise of the AI Music Video Generator: How Artists ... (https://illustratemagazine.com/beatviz-and-the-rise-of-the-ai-music-video-generator-how-artists-will-visualize-sound-in-2026/)\nBy the end of 2026, the AI music video generator will no longer feel new. It will feel necessary. As music continues to evolve, the way we ...\n\n[4] Free AI Music Video Generator - Invideo AI (https://invideo.io/make/music-video-maker/)\nSave time with AI music video generator ... Quickly create music videos with AI. Share your idea, and our tool handles the rest in no time.\n\n[5] AI Music Video Generator MAIVE - Apps on Google Play (https://play.google.com/store/apps/details?id=com.futuremoments.maive&hl=en_US)\nAI Music Video Generator MAIVE - Apps on Google Play. Games · Apps · Movies & TV ... • Musicians releasing new songs • AI music from Suno or Udio • Podcast ...\n\n=== Query 2: \"ai music video generator\" official launch announcement ===\n[1] freebeat.AI Launches World's First AI Music Video Agent (https://www.globenewswire.com/news-release/2025/08/19/3135860/0/en/freebeat-AI-Launches-World-s-First-AI-Music-Video-Agent-Transforms-Music-Into-Viral-Video-in-One-Click.html)\nNo crews. No budgets. Just the best AI music video generator. A Media Snippet accompanying this announcement is available by clicking on this ...\n\n[2] Announcing the launch of ODM Entertainment, a new film and ... (https://www.instagram.com/p/DWhCOT3EwgT/)\nhttps://illustratemagazine.com/beatviz-and-the-rise-of-the-ai-music-video-generator-how-artists-will-visualize-sound-in-2026/ #AIart ...\n\n[3] **Producer AI – Google's new toy.** You can now create music and ... (https://www.facebook.com/groups/7836479966373364/posts/26445044478423631/)\nBest ai music video generator for songs. Rickcannonmusic ▻ Suno Music Creator's Universe. 9w · Public · What is the best and cheapest AI music ...\n\n[4] The Visual Pulse of Gen-Z: How Freebeat.ai Became the Global (https://www.openpr.com/news/4442575/the-visual-pulse-of-gen-z-how-freebeat-ai-became-the-global)\n... ai/music-video-generator]. Moving beyond simple lyric video generator functions, the platform acts as an autonomous director. It is now ...\n\n[5] Inside Beatviz: How an AI Music Video Generator Turns Audio into ... (https://www.mexc.co/en-NG/news/655088)\nAt the core of any AI music video generator is audio analysis. Instead of treating a song as a single file, AI systems break audio into multiple ..."
+  },
+  "Woosh": {
+    "query1": "\"Woosh\" release date",
+    "query2": "\"Woosh\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Woosh Shark Tank Update – Shark Tank Season 14",
+        "url": "https://www.sharktankblog.com/business/woosh/",
+        "snippet": "Winston Mok seeks an investor for Woosh, his air filters that turn your HVAC system into a whole house air filter, in Shark Tank episode 1404."
+      },
+      {
+        "title": "Woosh - The Smarter Way To Cleaner Air!",
+        "url": "https://wooshair.com/",
+        "snippet": "What's Woosh? It's a Smart Filter + Air Quality Monitor + Mobile App. Transform your HVAC into a smart air purifier with our Smart Filter. Equipped with sensors ..."
+      },
+      {
+        "title": "Did Woosh Air Filter Survive After Shark Tank? Here's What ... - BGR",
+        "url": "https://www.bgr.com/2089697/what-happened-woosh-air-filter-from-shark-tank-season-14/",
+        "snippet": "Woosh Air is an air filter brand that first appeared in Shark Tank's 14th season and even secured an on-air deal. Here's how the brand has ..."
+      },
+      {
+        "title": "When did Woosh release “Hmmm?”? - Genius",
+        "url": "https://genius.com/Woosh-hmmm-lyrics/q/release-date",
+        "snippet": "Woosh released “Hmmm?” on June 24, 2018 ... When did Woosh's first album release? What is the most popular album by ..."
+      },
+      {
+        "title": "Woosh Air 2026 Company Profile: Valuation, Funding & Investors",
+        "url": "https://pitchbook.com/profiles/company/490014-01",
+        "snippet": "Woosh Air FAQs. When was Woosh Air founded? Woosh Air was founded in 2020. Where is Woosh Air headquartered? Woosh Air is headquartered in San Francisco, CA."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Woosh rocketry launch in Verona, WI - Facebook",
+        "url": "https://www.facebook.com/groups/wooshrocketry/posts/26147707491500390/",
+        "snippet": "JOIN US IN VERONA FOR THE 1ST LAUNCH OF 2026 FOR ADDITIONAL INFORMATION SEE THE WOOSH WEB SITE · Kent Frailing ▻ Horseshoes Around Wisconsin."
+      },
+      {
+        "title": "Southeast Asia's first high speed railway, 'Woosh,' launches",
+        "url": "https://www.mercurynews.com/2023/10/02/southeast-asias-first-high-speed-railway-woosh-launches/",
+        "snippet": "Southeast Asia's first high speed railway, 'Woosh,' launches. The project in Indonesia was largely funded by China. Share this: Share on ..."
+      },
+      {
+        "title": "News – Woosh",
+        "url": "https://woosh.care/en/blogs/blogs?srsltid=AfmBOoqpNLHNp818ixQSXiiloClEl-5REfAxmhp5cO-r8IMHWRs2jNTm",
+        "snippet": "A pile of every Woosh diaper. Size 1-6. Woosh launches its own diaper, taking the first steps towards a circular diaper. on May 21, 2024. Woosh delivery guy ..."
+      },
+      {
+        "title": "Woosh Air Filtration Company Launches First Consumer Product on ...",
+        "url": "https://www.nonwovens-industry.com/breaking-news/woosh-air-filtration-company-launches-first-consumer-product-on-kickstarter/",
+        "snippet": "Woosh is officially launching on Kickstarter with expectations to deliver the consumer product in Q4 2022. Woosh's first product will have an ..."
+      },
+      {
+        "title": "Whitewater RC Field - Home-Woosh Rocketry",
+        "url": "https://www.wooshrocketry.org/whitewater-rc-field.html",
+        "snippet": "Whitewater RC Field Information. The Whitewater RC club has given WOOSH permission to use this location for specific club launches."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"Woosh\" release date ===\n[1] Woosh Shark Tank Update – Shark Tank Season 14 (https://www.sharktankblog.com/business/woosh/)\nWinston Mok seeks an investor for Woosh, his air filters that turn your HVAC system into a whole house air filter, in Shark Tank episode 1404.\n\n[2] Woosh - The Smarter Way To Cleaner Air! (https://wooshair.com/)\nWhat's Woosh? It's a Smart Filter + Air Quality Monitor + Mobile App. Transform your HVAC into a smart air purifier with our Smart Filter. Equipped with sensors ...\n\n[3] Did Woosh Air Filter Survive After Shark Tank? Here's What ... - BGR (https://www.bgr.com/2089697/what-happened-woosh-air-filter-from-shark-tank-season-14/)\nWoosh Air is an air filter brand that first appeared in Shark Tank's 14th season and even secured an on-air deal. Here's how the brand has ...\n\n[4] When did Woosh release “Hmmm?”? - Genius (https://genius.com/Woosh-hmmm-lyrics/q/release-date)\nWoosh released “Hmmm?” on June 24, 2018 ... When did Woosh's first album release? What is the most popular album by ...\n\n[5] Woosh Air 2026 Company Profile: Valuation, Funding & Investors (https://pitchbook.com/profiles/company/490014-01)\nWoosh Air FAQs. When was Woosh Air founded? Woosh Air was founded in 2020. Where is Woosh Air headquartered? Woosh Air is headquartered in San Francisco, CA.\n\n=== Query 2: \"Woosh\" official launch announcement ===\n[1] Woosh rocketry launch in Verona, WI - Facebook (https://www.facebook.com/groups/wooshrocketry/posts/26147707491500390/)\nJOIN US IN VERONA FOR THE 1ST LAUNCH OF 2026 FOR ADDITIONAL INFORMATION SEE THE WOOSH WEB SITE · Kent Frailing ▻ Horseshoes Around Wisconsin.\n\n[2] Southeast Asia's first high speed railway, 'Woosh,' launches (https://www.mercurynews.com/2023/10/02/southeast-asias-first-high-speed-railway-woosh-launches/)\nSoutheast Asia's first high speed railway, 'Woosh,' launches. The project in Indonesia was largely funded by China. Share this: Share on ...\n\n[3] News – Woosh (https://woosh.care/en/blogs/blogs?srsltid=AfmBOoqpNLHNp818ixQSXiiloClEl-5REfAxmhp5cO-r8IMHWRs2jNTm)\nA pile of every Woosh diaper. Size 1-6. Woosh launches its own diaper, taking the first steps towards a circular diaper. on May 21, 2024. Woosh delivery guy ...\n\n[4] Woosh Air Filtration Company Launches First Consumer Product on ... (https://www.nonwovens-industry.com/breaking-news/woosh-air-filtration-company-launches-first-consumer-product-on-kickstarter/)\nWoosh is officially launching on Kickstarter with expectations to deliver the consumer product in Q4 2022. Woosh's first product will have an ...\n\n[5] Whitewater RC Field - Home-Woosh Rocketry (https://www.wooshrocketry.org/whitewater-rc-field.html)\nWhitewater RC Field Information. The Whitewater RC club has given WOOSH permission to use this location for specific club launches."
+  },
+  "Omni123": {
+    "query1": "\"Omni123\" release date",
+    "query2": "\"Omni123\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Let me know if you need options! - Facebook",
+        "url": "https://www.facebook.com/groups/fultongbu/posts/2722997371378190/",
+        "snippet": "... omni123.com OMNI SOLUTIONS မမေေ RapO 白蛋茶 Member of the ... The post IOD Stamps 2020: The New Fall Release is Here! appeared ..."
+      },
+      {
+        "title": "1 Comparison of Text-to-3D paradigms - arXiv",
+        "url": "https://arxiv.org/html/2604.02289v1",
+        "snippet": "We present Omni123, a 3D native foundation model that addresses limited 3D data by unifying text-to-2D and text-to-3D generation within a single ..."
+      },
+      {
+        "title": "Daily Papers - Hugging Face",
+        "url": "https://huggingface.co/papers?q=3D-native%20foundation%20model",
+        "snippet": "Experiments show that Omni123 significantly improves text-guided 3D generation and editing, demonstrating a scalable path toward multimodal 3D ..."
+      },
+      {
+        "title": "[PDF] Omni-Patient™ Server Installation and Configuration Guide",
+        "url": "https://iwayinfocenter.informationbuilders.com/pdfs_omni/op_server_install.pdf",
+        "snippet": "EIS Release Level. EIS Service Pack. EIS Platform. The following table lists ... ds.username=omni ds.password=omni123 db.migrate.target=sqlserver. 18. iWay ..."
+      },
+      {
+        "title": "[PDF] 2025 ANNIVERSARIES DIAMOND AWARDS - Starn Tool",
+        "url": "https://www.starn.com/wp-content/uploads/2025/09/Mdvl-Trib-Foundations-Magazine-2025.pdf",
+        "snippet": "omni123.com. Jay Verno. Porter Consulting Engineers,. P.C.. 552 State Street. Meadville, PA 16335. (814) 337-4447 pceengineers.com. Robin ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Let me know if you need options! - Facebook",
+        "url": "https://www.facebook.com/groups/fultongbu/posts/2722997371378190/",
+        "snippet": "... omni123.com OMNI SOLUTIONS မမေေ RapO 白蛋茶 Member of the Callaway County Chamber of Commerce. Log in · Let me know if you need options ..."
+      },
+      {
+        "title": "[PDF] 2025 ANNIVERSARIES DIAMOND AWARDS - Starn Tool",
+        "url": "https://www.starn.com/wp-content/uploads/2025/09/Mdvl-Trib-Foundations-Magazine-2025.pdf",
+        "snippet": "omni123.com. Jay Verno. Porter Consulting Engineers,. P.C.. 552 State Street. Meadville, PA 16335. (814) 337-4447 pceengineers.com. Robin ..."
+      },
+      {
+        "title": "How to supercharge FSD (Frame Shift Drive) using white dwarf ...",
+        "url": "https://alienwarearena.com/ucf/show/2153365/boards/in-game-media-2/Video/how-to-supercharge-fsd-frame-shift-drive-using-white-dwarf-neutron-star-in-elite-dangerous/",
+        "snippet": "How to supercharge FSD (Frame Shift Drive) using white dwarf / neutron star in Elite Dangerous. Avatar border Avatar of Omni123. User tier badge. Omni123."
+      },
+      {
+        "title": "What should I do if I start out in that spawn northeast of Tulga?",
+        "url": "https://forums.dayz.com/topic/161267-what-should-i-do-if-i-start-out-in-that-spawn-northeast-of-tulga/",
+        "snippet": "Omni123 0 ... I've been spawning a lot lately near the spawn near Tulga and that 3 house \"town\". Its the worst spawn for me and I hate starting ..."
+      },
+      {
+        "title": "ML & robotics research stream | Yutori",
+        "url": "https://scouts.yutori.com/441f7a3e-8369-443f-a690-548bde979892",
+        "snippet": "Omni123: Exploring 3D Native Foundation Models by Unifying Text to 2D and 3D ... UR and Scale AI announce the imitation learning system — Official press release ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"Omni123\" release date ===\n[1] Let me know if you need options! - Facebook (https://www.facebook.com/groups/fultongbu/posts/2722997371378190/)\n... omni123.com OMNI SOLUTIONS မမေေ RapO 白蛋茶 Member of the ... The post IOD Stamps 2020: The New Fall Release is Here! appeared ...\n\n[2] 1 Comparison of Text-to-3D paradigms - arXiv (https://arxiv.org/html/2604.02289v1)\nWe present Omni123, a 3D native foundation model that addresses limited 3D data by unifying text-to-2D and text-to-3D generation within a single ...\n\n[3] Daily Papers - Hugging Face (https://huggingface.co/papers?q=3D-native%20foundation%20model)\nExperiments show that Omni123 significantly improves text-guided 3D generation and editing, demonstrating a scalable path toward multimodal 3D ...\n\n[4] [PDF] Omni-Patient™ Server Installation and Configuration Guide (https://iwayinfocenter.informationbuilders.com/pdfs_omni/op_server_install.pdf)\nEIS Release Level. EIS Service Pack. EIS Platform. The following table lists ... ds.username=omni ds.password=omni123 db.migrate.target=sqlserver. 18. iWay ...\n\n[5] [PDF] 2025 ANNIVERSARIES DIAMOND AWARDS - Starn Tool (https://www.starn.com/wp-content/uploads/2025/09/Mdvl-Trib-Foundations-Magazine-2025.pdf)\nomni123.com. Jay Verno. Porter Consulting Engineers,. P.C.. 552 State Street. Meadville, PA 16335. (814) 337-4447 pceengineers.com. Robin ...\n\n=== Query 2: \"Omni123\" official launch announcement ===\n[1] Let me know if you need options! - Facebook (https://www.facebook.com/groups/fultongbu/posts/2722997371378190/)\n... omni123.com OMNI SOLUTIONS မမေေ RapO 白蛋茶 Member of the Callaway County Chamber of Commerce. Log in · Let me know if you need options ...\n\n[2] [PDF] 2025 ANNIVERSARIES DIAMOND AWARDS - Starn Tool (https://www.starn.com/wp-content/uploads/2025/09/Mdvl-Trib-Foundations-Magazine-2025.pdf)\nomni123.com. Jay Verno. Porter Consulting Engineers,. P.C.. 552 State Street. Meadville, PA 16335. (814) 337-4447 pceengineers.com. Robin ...\n\n[3] How to supercharge FSD (Frame Shift Drive) using white dwarf ... (https://alienwarearena.com/ucf/show/2153365/boards/in-game-media-2/Video/how-to-supercharge-fsd-frame-shift-drive-using-white-dwarf-neutron-star-in-elite-dangerous/)\nHow to supercharge FSD (Frame Shift Drive) using white dwarf / neutron star in Elite Dangerous. Avatar border Avatar of Omni123. User tier badge. Omni123.\n\n[4] What should I do if I start out in that spawn northeast of Tulga? (https://forums.dayz.com/topic/161267-what-should-i-do-if-i-start-out-in-that-spawn-northeast-of-tulga/)\nOmni123 0 ... I've been spawning a lot lately near the spawn near Tulga and that 3 house \"town\". Its the worst spawn for me and I hate starting ...\n\n[5] ML & robotics research stream | Yutori (https://scouts.yutori.com/441f7a3e-8369-443f-a690-548bde979892)\nOmni123: Exploring 3D Native Foundation Models by Unifying Text to 2D and 3D ... UR and Scale AI announce the imitation learning system — Official press release ..."
+  },
+  "SonoWorld": {
+    "query1": "\"SonoWorld\" release date",
+    "query2": "\"SonoWorld\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Did You Know? On the SonoWorld Lectures Directory page, List ...",
+        "url": "https://www.facebook.com/sonoworld/posts/did-you-knowon-the-sonoworld-lectures-directory-page-list-view-which-displays-le/793603607468412/",
+        "snippet": "On the SonoWorld Lectures Directory page, List View (which displays lectures by release date) is the default, but you can switch to 'Category ..."
+      },
+      {
+        "title": "Can ultrasound be helpful in selecting optimal management ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5516082/",
+        "snippet": "Received 2016 Aug 31; Revised 2016 Oct 4; Accepted 2016 Oct 9; Issue date 2017 Jun. ... Available from: https://sonoworld.com/Fetus/page.aspx?id=165. 31. Hamza A ..."
+      },
+      {
+        "title": "Sonoworld Diagnostic Services Ltd Reviews 47 - Trustpilot",
+        "url": "https://www.trustpilot.com/review/sonoworld.co.uk",
+        "snippet": "Do you agree with Sonoworld Diagnostic Services Ltd's 4-star rating? Check out what 47 people have written so far, and share your own experience."
+      },
+      {
+        "title": "[PDF] Consolidated Incentives Performance Report",
+        "url": "https://commerce.maryland.gov/Documents/ResearchDocument/Maryland-Jobs-Development-Act-Full-Report-FY17.pdf",
+        "snippet": "SonoWorld (The Monroe. Companies). Export Maryland. 6,000. 200,000. 1 Montgomery ... Upcoming Reporting Date & <60 Days past due. Tickler/Reminder E-mails."
+      },
+      {
+        "title": "[PDF] Center for Programs in Allied Health Diagnostic Medical ...",
+        "url": "https://www.vumc.org/dms-program/sites/default/files/public_files/DMS.PROGRAM%20HANDBOOK.2021-2022.pdf",
+        "snippet": "SonoWorld- Excellent resource for free or low-costs to access educational materials and information including video lectures by leading ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Hello! Im Mysonoworld - YouTube",
+        "url": "https://www.youtube.com/watch?v=NOGg8DnY_zs",
+        "snippet": "Im Mysonoworld. 183 views · 9 years ago ...more. Sonoworld Malaysia. 26 ... Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News ..."
+      },
+      {
+        "title": "Press releases - 123 Sonography",
+        "url": "https://legacy.123sonography.com/press-releases",
+        "snippet": "In the same year 2019, 123sonography acquired the US-American company SonoWorld from the Intelios Group, which is one of the major players in the education ..."
+      },
+      {
+        "title": "Mindray - Facebook",
+        "url": "https://www.facebook.com/MindrayMedical/posts/resonaa20-launches-in-uzbekistanin-a-landmark-event-for-central-asias-medical-co/1079195134355636/",
+        "snippet": "He is also the owner of The Fetus.net; https://sonoworld.com ... The official opening ceremony of the International Kurash Coaches Seminar was ..."
+      },
+      {
+        "title": "\"The Resona A20 delivers the best image quality for the highest ...",
+        "url": "https://www.facebook.com/MindrayMedical/posts/the-resona-a20-delivers-the-best-image-quality-for-the-highest-level-of-confiden/959579822983835/",
+        "snippet": "He is also the owner of The Fetus.net; https://sonoworld.com ... Post ESE Paris 2025 Launch, Test Drive of the all New Reciproc R20 ..."
+      },
+      {
+        "title": "[PDF] Ultrasound Bulletin Volume 11 Issue 3 August 2008",
+        "url": "https://www.asum.com.au/wp-content/uploads/2015/09/volume-11-issue-3.pdf",
+        "snippet": "June 2007 saw the official opening. ASUM's state of the art new offices ... Selected articles are also included on the SonoWorld website. The production ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"SonoWorld\" release date ===\n[1] Did You Know? On the SonoWorld Lectures Directory page, List ... (https://www.facebook.com/sonoworld/posts/did-you-knowon-the-sonoworld-lectures-directory-page-list-view-which-displays-le/793603607468412/)\nOn the SonoWorld Lectures Directory page, List View (which displays lectures by release date) is the default, but you can switch to 'Category ...\n\n[2] Can ultrasound be helpful in selecting optimal management ... - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC5516082/)\nReceived 2016 Aug 31; Revised 2016 Oct 4; Accepted 2016 Oct 9; Issue date 2017 Jun. ... Available from: https://sonoworld.com/Fetus/page.aspx?id=165. 31. Hamza A ...\n\n[3] Sonoworld Diagnostic Services Ltd Reviews 47 - Trustpilot (https://www.trustpilot.com/review/sonoworld.co.uk)\nDo you agree with Sonoworld Diagnostic Services Ltd's 4-star rating? Check out what 47 people have written so far, and share your own experience.\n\n[4] [PDF] Consolidated Incentives Performance Report (https://commerce.maryland.gov/Documents/ResearchDocument/Maryland-Jobs-Development-Act-Full-Report-FY17.pdf)\nSonoWorld (The Monroe. Companies). Export Maryland. 6,000. 200,000. 1 Montgomery ... Upcoming Reporting Date & <60 Days past due. Tickler/Reminder E-mails.\n\n[5] [PDF] Center for Programs in Allied Health Diagnostic Medical ... (https://www.vumc.org/dms-program/sites/default/files/public_files/DMS.PROGRAM%20HANDBOOK.2021-2022.pdf)\nSonoWorld- Excellent resource for free or low-costs to access educational materials and information including video lectures by leading ...\n\n=== Query 2: \"SonoWorld\" official launch announcement ===\n[1] Hello! Im Mysonoworld - YouTube (https://www.youtube.com/watch?v=NOGg8DnY_zs)\nIm Mysonoworld. 183 views · 9 years ago ...more. Sonoworld Malaysia. 26 ... Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News ...\n\n[2] Press releases - 123 Sonography (https://legacy.123sonography.com/press-releases)\nIn the same year 2019, 123sonography acquired the US-American company SonoWorld from the Intelios Group, which is one of the major players in the education ...\n\n[3] Mindray - Facebook (https://www.facebook.com/MindrayMedical/posts/resonaa20-launches-in-uzbekistanin-a-landmark-event-for-central-asias-medical-co/1079195134355636/)\nHe is also the owner of The Fetus.net; https://sonoworld.com ... The official opening ceremony of the International Kurash Coaches Seminar was ...\n\n[4] \"The Resona A20 delivers the best image quality for the highest ... (https://www.facebook.com/MindrayMedical/posts/the-resona-a20-delivers-the-best-image-quality-for-the-highest-level-of-confiden/959579822983835/)\nHe is also the owner of The Fetus.net; https://sonoworld.com ... Post ESE Paris 2025 Launch, Test Drive of the all New Reciproc R20 ...\n\n[5] [PDF] Ultrasound Bulletin Volume 11 Issue 3 August 2008 (https://www.asum.com.au/wp-content/uploads/2015/09/volume-11-issue-3.pdf)\nJune 2007 saw the official opening. ASUM's state of the art new offices ... Selected articles are also included on the SonoWorld website. The production ..."
+  },
+  "Netflix VOID": {
+    "query1": "\"Netflix VOID\" release date",
+    "query2": "\"Netflix VOID\" official launch announcement",
+    "results_q1": [
+      {
+        "title": "Netflix just dropped their first public model on Hugging Face: VOID ...",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/",
+        "snippet": "1.6K votes, 197 comments. Hugging Face netflix/void-model: https://huggingface.co/netflix/void-model Project page - GitHub…"
+      },
+      {
+        "title": "Netflix's new AI doesn't create videos — it rewrites reality (and it's ...",
+        "url": "https://www.tomsguide.com/ai/netflixs-new-ai-doesnt-create-videos-it-rewrites-reality-and-its-open-source",
+        "snippet": "Netflix's new AI doesn't create videos — it rewrites reality (and it's open source) · What is Netflix VOID? · Why this is the \"end of the reshoot\"."
+      },
+      {
+        "title": "Netflix unveils 'VOID', an AI model that can change a movie plot",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-unveils-void-an-ai-model-that-can-change-a-movie-plot/articleshow/130058880.cms",
+        "snippet": "How Netflix VOID works. Netflix's VOID can alter the scene and digitally erase the collision, the second vehicle, the smoke, and the flying ..."
+      },
+      {
+        "title": "netflix/void-model - Hugging Face",
+        "url": "https://huggingface.co/netflix/void-model",
+        "snippet": "VOID: Video Object and Interaction Deletion · Quick Start · Model Details · Usage · Training · Citation · Model tree for netflix/void-model · Spaces ..."
+      }
+    ],
+    "results_q2": [
+      {
+        "title": "Netflix just released VOID, an open source video editing system that ...",
+        "url": "https://www.instagram.com/p/DW1fdYPAKIt/",
+        "snippet": "Unlock the power of video editing with our new tutorial on Netflix's VOID model. ... Read Full Article: https://deccanfounders.com/2026/06/news/ ..."
+      },
+      {
+        "title": "INSAIT and Netflix Unveil VOID: AI Video Editing Breakthrough",
+        "url": "https://therecursive.com/insait-netflix-void-ai-video-editing/",
+        "snippet": "The model, called VOID (Video Object and Interaction Deletion), was released on April 3 under an Apache 2.0 license. It introduces a significant ..."
+      },
+      {
+        "title": "Netflix unveils 'VOID', an AI model that can change a movie plot",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-unveils-void-an-ai-model-that-can-change-a-movie-plot/articleshow/130058880.cms",
+        "snippet": "How Netflix VOID works. Netflix's VOID can alter the scene and digitally erase the collision, the second vehicle, the smoke, and the flying ..."
+      },
+      {
+        "title": "Netflix has unveiled a new advanced pipeline for video object ...",
+        "url": "https://www.instagram.com/p/DWyCtsZGhUn/",
+        "snippet": "Unlock the power of video editing with our new tutorial on Netflix's VOID model. Learn how to set up your environment and configure the pipeline ..."
+      },
+      {
+        "title": "Netflix has announced a newly developed video editing framework ...",
+        "url": "https://gigazine.net/gsc_news/en/20260407-void/",
+        "snippet": "Furthermore, the source code for VOID is available on GitHub under the Apache 2.0 license . Netflix/void-model https://github.com/Netflix/void- ..."
+      }
+    ],
+    "snippets_combined": "=== Query 1: \"Netflix VOID\" release date ===\n[1] Netflix just dropped their first public model on Hugging Face: VOID ... (https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/)\n1.6K votes, 197 comments. Hugging Face netflix/void-model: https://huggingface.co/netflix/void-model Project page - GitHub…\n\n[2] Netflix's new AI doesn't create videos — it rewrites reality (and it's ... (https://www.tomsguide.com/ai/netflixs-new-ai-doesnt-create-videos-it-rewrites-reality-and-its-open-source)\nNetflix's new AI doesn't create videos — it rewrites reality (and it's open source) · What is Netflix VOID? · Why this is the \"end of the reshoot\".\n\n[3] Netflix unveils 'VOID', an AI model that can change a movie plot (https://timesofindia.indiatimes.com/technology/tech-news/netflix-unveils-void-an-ai-model-that-can-change-a-movie-plot/articleshow/130058880.cms)\nHow Netflix VOID works. Netflix's VOID can alter the scene and digitally erase the collision, the second vehicle, the smoke, and the flying ...\n\n[4] netflix/void-model - Hugging Face (https://huggingface.co/netflix/void-model)\nVOID: Video Object and Interaction Deletion · Quick Start · Model Details · Usage · Training · Citation · Model tree for netflix/void-model · Spaces ...\n\n=== Query 2: \"Netflix VOID\" official launch announcement ===\n[1] Netflix just released VOID, an open source video editing system that ... (https://www.instagram.com/p/DW1fdYPAKIt/)\nUnlock the power of video editing with our new tutorial on Netflix's VOID model. ... Read Full Article: https://deccanfounders.com/2026/06/news/ ...\n\n[2] INSAIT and Netflix Unveil VOID: AI Video Editing Breakthrough (https://therecursive.com/insait-netflix-void-ai-video-editing/)\nThe model, called VOID (Video Object and Interaction Deletion), was released on April 3 under an Apache 2.0 license. It introduces a significant ...\n\n[3] Netflix unveils 'VOID', an AI model that can change a movie plot (https://timesofindia.indiatimes.com/technology/tech-news/netflix-unveils-void-an-ai-model-that-can-change-a-movie-plot/articleshow/130058880.cms)\nHow Netflix VOID works. Netflix's VOID can alter the scene and digitally erase the collision, the second vehicle, the smoke, and the flying ...\n\n[4] Netflix has unveiled a new advanced pipeline for video object ... (https://www.instagram.com/p/DWyCtsZGhUn/)\nUnlock the power of video editing with our new tutorial on Netflix's VOID model. Learn how to set up your environment and configure the pipeline ...\n\n[5] Netflix has announced a newly developed video editing framework ... (https://gigazine.net/gsc_news/en/20260407-void/)\nFurthermore, the source code for VOID is available on GitHub under the Apache 2.0 license . Netflix/void-model https://github.com/Netflix/void- ..."
+  }
+}

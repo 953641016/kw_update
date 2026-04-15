@@ -1,0 +1,162 @@
+{
+  "ElevenMusic": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 6,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 8,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    }
+  },
+  "DynaVid": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 7,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 7,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    }
+  },
+  "Ideogram Layerize": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 5,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 5,
+      "raw_answer": "```json\n{\n  \"date\": null,\n  \"reason\": \"date_unknown\"\n}\n```\n\nThe search results confirm that **Ideogram Layerize** is a real product that extracts editable text layers from graphic images[1][2]. Howeve"
+    }
+  },
+  "Seedance 2.0": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 10,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 10,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    }
+  },
+  "MemPalace": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 4,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 4,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    }
+  },
+  "ai music video generator": {
+    "sonar": {
+      "date": null,
+      "reason": "not_exist",
+      "event": "",
+      "citations": 10,
+      "raw_answer": "{\"date\": null, \"reason\": \"not_exist\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "not_exist",
+      "event": "",
+      "citations": 10,
+      "raw_answer": "{\"date\": null, \"reason\": \"not_exist\"}"
+    }
+  },
+  "Woosh": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 8,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 9,
+      "raw_answer": "```json\n{\n  \"date\": null,\n  \"reason\": \"date_unknown\"\n}\n```\n\nThe search results show that **Woosh** (the smart HVAC filter with air quality monitoring) is an active product currently available for purc"
+    }
+  },
+  "Omni123": {
+    "sonar": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 8,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    },
+    "sonar-pro": {
+      "date": null,
+      "reason": "date_unknown",
+      "event": "",
+      "citations": 8,
+      "raw_answer": "{\"date\": null, \"reason\": \"date_unknown\"}"
+    }
+  },
+  "SonoWorld": {
+    "sonar": {
+      "date": "1999",
+      "reason": "",
+      "event": "SonoWorld launched as a free educational platform for ultrasound practitioners",
+      "citations": 6,
+      "raw_answer": "```json\n{\n  \"date\": \"1999\",\n  \"event\": \"SonoWorld launched as a free educational platform for ultrasound practitioners\"\n}\n```\n\n**Note:** The search results provide only the year (1999) rather than a s"
+    },
+    "sonar-pro": {
+      "date": "1999",
+      "reason": "",
+      "event": "SonoWorld launched as free educational platform for ultrasound practitioners",
+      "citations": 5,
+      "raw_answer": "```json\n{\"date\": \"1999\", \"event\": \"SonoWorld launched as free educational platform for ultrasound practitioners\"}\n```\n\n**Note:** The search results indicate SonoWorld was \"launched in 1999\"[2], but th"
+    }
+  },
+  "Netflix VOID": {
+    "sonar": {
+      "date": "2026-04-04",
+      "reason": "",
+      "event": "Netflix open-sourced VOID AI video editing tool",
+      "citations": 4,
+      "raw_answer": "{\"date\": \"2026-04-04\", \"event\": \"Netflix open-sourced VOID AI video editing tool\"}"
+    },
+    "sonar-pro": {
+      "date": "2026-04-04",
+      "reason": "",
+      "event": "Netflix AI team open-sourced VOID (Video Object and Interaction Deletion), an AI video editing framework",
+      "citations": 4,
+      "raw_answer": "```json\n{\n  \"date\": \"2026-04-04\",\n  \"event\": \"Netflix AI team open-sourced VOID (Video Object and Interaction Deletion), an AI video editing framework\"\n}\n```"
+    }
+  }
+}
